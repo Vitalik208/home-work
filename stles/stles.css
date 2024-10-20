@@ -21,6 +21,12 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
+.effective-solutions {
+width: 1440px;
+height: 600px;
+background: #2e2f42;
+}
+
 .header-span {
     font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -32,7 +38,6 @@ color: #2e2f42;
 }
 
 .menu-item-link {
-    font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -40,8 +45,6 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 .address-item-link {
-    font-family: "Roboto", sans-serif;
-font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -49,7 +52,6 @@ color: #434455;
 }
 
 .heading-primary {
-    font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07143;
@@ -59,7 +61,6 @@ color: #fff;
 }
 
 .heading-secondary {
-    font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11111;
@@ -72,7 +73,6 @@ color: #2e2f42;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5; 
 border: none;
-    font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -81,7 +81,6 @@ color: #fff;
 }
 
 .heading-title {
-    font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -90,7 +89,6 @@ color: #2e2f42;
 }
 
 .team-heading-title {
-    font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -100,8 +98,6 @@ text-align: center;
 }
 
 .team-text {
-    font-family: "Roboto", sans-serif;
-font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -110,17 +106,19 @@ color: #434455;
 }
 
 .portfolio-text {
-    font-family: "Roboto", sans-serif;
-font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 
+.footer {
+width: 1440px;
+height: 312px;
+background: #2e2f42;
+}
+
 .footer-text {
-    font-family: "Roboto", sans-serif;
-font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -138,8 +136,6 @@ color: #f4f4fd;
 }
 
 .footer-text {
-    font-family: "Roboto", sans-serif;
-font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
